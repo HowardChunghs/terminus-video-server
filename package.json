@@ -1,0 +1,7 @@
+{
+  "name": "terminus-video-server",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npx serve -s public -l 3001"
+  }
+}
